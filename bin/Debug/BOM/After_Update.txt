@@ -1,0 +1,1 @@
+Line|Model|Ma_NVL|Mo_ta|Vi_tri|Diem_gan|Maker|Maker_Part|Cong_doan|So_luong|Su_dung|
